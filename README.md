@@ -1,8 +1,8 @@
  public class B0t {
     
  -	public String ID_Name = "" ;
- -	public String ID_Pass = "superstarmata1" ;
- +	public String ID_Name = "evelinapersa123" ; // user nikname
+ -	public String ID_Pass = "" ;
+ +	public String ID_Name = "" ; // user nikname
  +	public String ID_Pass = "password" ; // pass user 
   	public String comen = "5/5";
   	public WebDriver dr ; // web driver
